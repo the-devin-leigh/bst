@@ -23,4 +23,11 @@ void print(int array[]){
   }
 }
 
+int main(){
+  /*
+    code
+    here
+   */
+}
+
   
